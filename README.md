@@ -1,7 +1,7 @@
 # Book-blog
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a blog for Chimamanda Ngozi Adichie's books, created in Ember. View the live site [here](https://book-blog.herokuapp.com/)
 
 ## Prerequisites
 
